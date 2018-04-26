@@ -1,3 +1,4 @@
+#!/bin/bash
 # shadowsocks
 #
 # VERSION 0.0.3
